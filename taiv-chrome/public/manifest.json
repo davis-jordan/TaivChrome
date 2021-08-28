@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "TaivChrome",
+  "author": "Jordan Davis",
+  "version": "1.0.0",
+  "description": "Home Screen For Taiv",
+  "icons": {
+    "16": "taivfav16.ico",
+    "48": "taivfav48.ico",
+    "128": "taivfav128.ico"
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
