@@ -22,5 +22,6 @@
   },
   "include": [
     "src/**/*" 
-  ]
+  ],
+  "types": ["gapi", "gapi.auth2", "gapi.client", "gapi.client.calendar"]
 }
